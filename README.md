@@ -37,11 +37,11 @@ Exprienced in deploying
 ## 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaymourya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjmourya-vm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaymourya&show_icons=true&theme=tokyonight&hide_border=true" alt="Vijay's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymourya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vjmourya-vm&show_icons=true&theme=tokyonight&hide_border=true" alt="Vijay's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjmourya-vm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
