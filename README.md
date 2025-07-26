@@ -2,9 +2,6 @@
 <h3 align="center">🚀 Senior DevOps | Site Reliability Engineer | Cloud & Automation Enthusiast</h3>
 
 <p align="center">
-<!--   <a href="https://www.linkedin.com/in/vijaymourya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a> -->
   <a href="mailto:mourya.vijay.vm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email Badge"/>
   </a>
@@ -17,17 +14,23 @@
 
 ## 🛠️ Tech Stack & Tools
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white&style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+
+---
+
+## Professional Experience
+
+Exprienced in deploying 
 
 ---
 
